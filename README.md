@@ -2,9 +2,9 @@
 
 ## Introducción a MPI
 
-En la actualidad, es posible contar con una alta capacidad computacional mediante clústeres de computadoras personales independientes, de bajo costo, interconectadas mediante tecnologías de red de alta velocidad y utilizando software de libre distribución. La aparición de la computación paralela permitió el desarrollo de métodos de programación que facilitan la implementación de algoritmos aprovechando recursos compartidos, como procesadores, memoria, datos y servicios.
+En la actualidad, es posible contar con una alta capacidad computacional mediante el uso de clústeres de computadoras personales independientes, de bajo costo, interconectadas mediante tecnologías de red de alta velocidad y utilizando software de libre distribución. El surgimiento de la computación paralela ha permitido el desarrollo de métodos de programación que facilitan la implementación de algoritmos aprovechando recursos compartidos como procesadores, memoria, datos y servicios.
 
-Message Passing Interface (MPI) fue creado en 1993 como un estándar abierto desarrollado por fabricantes y usuarios de sistemas paralelos. MPI representó el primer esfuerzo significativo para producir una interfaz estándar para el paso de mensajes. Expertos en sistemas basados en paso de mensajes (incluyendo PVM, PARMACS y CHIMP de EPCC) junto con representantes de diversas organizaciones, usuarios y proveedores de sistemas paralelos de Estados Unidos y Europa formaron el FORUM MPI, encargado de definir el estándar. Posteriormente, MPI-2 amplió el alcance hacia otras áreas de la programación distribuida.
+El estándar Message Passing Interface (MPI) fue creado en 1993 como una iniciativa abierta impulsada por fabricantes y usuarios de sistemas paralelos. MPI representó el primer esfuerzo significativo para establecer una interfaz estándar para el paso de mensajes. Un grupo de expertos en sistemas basados en el paso de mensajes, junto con representantes de diversas organizaciones, usuarios y proveedores de sistemas paralelos de Estados Unidos y Europa, formaron el FORUM MPI, encargado de definir dicho estándar. Más adelante, se desarrollaron nuevas versiones, como MPI-2 en 1998 y MPI-3, que amplían las capacidades de MPI hacia otras áreas de la programación distribuida.
 
 ## Objetivo
 
