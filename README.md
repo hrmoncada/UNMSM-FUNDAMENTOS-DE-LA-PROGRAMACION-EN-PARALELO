@@ -23,7 +23,7 @@ En este curso se introducirán los conceptos básicos del desarrollo de aplicaci
 
 1. MPI para programar máquinas de memoria distribuida y vectorización para explotar las unidades vectoriales de los procesadores modernos, así como arquitecturas de many integrated core (MIC).
 2. OpenMP para programar multiprocesadores de memoria compartida.
-3. CUDA para programar GPUs.
+3. CUDA para programar GPUs (Aceleradores).
 
 Los MICs y GPUs se emplean como coprocesadores en clústeres de mayor escala (memoria distribuida), donde cada nodo actúa como un multiprocesador (memoria compartida). Dada la naturaleza de la asignatura, enfocada en la programación de grandes sistemas, se otorga una énfasis especial en la práctica. La teoría se complementa con múltiples prácticas y proyectos para consolidar y profundizar en los conceptos tratados.
 
@@ -36,4 +36,9 @@ En caso de contar con pocos estudiantes (5-6 o menos), se reducirán las clases 
 * Compatibilidad multilenguaje: Incluye interfaces para FORTRAN, C/C++ y Python.
 * Flexibilidad en la comunicación: Define diversas formas de comunicación, facilitando la programación de cualquier algoritmo paralelo de manera natural.
 * Enfoque en bibliotecas paralelas: Su diseño está orientado a la creación de bibliotecas paralelas especializadas.
+
+## Características de OpenMP
+* En desarrollo ....
+## Características de CUDA
+* En desarrollo ....
 
